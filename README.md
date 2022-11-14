@@ -44,7 +44,7 @@ Configuring versions of Python to be compatible with different libraries. For an
 - Websockets
 - Numpy
 - JavaScript/HTML/CSS
--
+
 ## Accomplishments:
 
 We trained, processed, and deployed state-of-the-art, custom-made Machine Learning models and achieved a very high accuracy rate of above 97% for our ASL-to-text converter. Similarly, for the second part of our project, we successfully launched a web call client despite facing difficulties from security proxies, video lag disparities, and other related issues.
